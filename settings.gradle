@@ -10,3 +10,4 @@
  */
 
 rootProject.name = "opensearch-cross-cluster-replication"
+startParameter.excludedTaskNames=["publishMavenzipPublicationToMavenLocal", "publishMavenzipPublicationToStagingRepository"]

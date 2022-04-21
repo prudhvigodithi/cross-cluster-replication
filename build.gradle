@@ -93,6 +93,7 @@ apply plugin: 'opensearch.testclusters'
 apply plugin: 'opensearch.rest-test'
 apply plugin: 'org.jetbrains.kotlin.jvm'
 apply plugin: 'org.jetbrains.kotlin.plugin.allopen'
+apply plugin: 'opensearch.zippublish'
 
 forbiddenApisTest.ignoreFailures = true
 
